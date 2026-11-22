@@ -1,0 +1,10 @@
+schema = 2
+package = "qual-extra"
+
+[[releases]]
+version = "1.0.1"
+url = "https://github.com/carabistouflette/honk-schema2-fixtures/releases/download/v1.0.1/qual-extra-1.0.1.tar.gz"
+sha256 = "9ab8ede8d3fa358a40898c13923e1aa9c1232fdf8698f7736843b5a91b769e8a"
+entry = "lib.goose"
+yanked = false
+dependencies = []
