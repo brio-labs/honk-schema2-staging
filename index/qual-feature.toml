@@ -6,6 +6,6 @@ version = "1.1.0"
 url = "https://github.com/carabistouflette/honk-schema2-fixtures/releases/download/v1.1.0/qual-feature-1.1.0.tar.gz"
 sha256 = "2202bf09887feac7d1bfe3e4ca702821ea7218dfe4530443d888271fa68e630f"
 entry = "lib.goose"
-yanked = true
+yanked = false
 dependencies = [{ alias = "extra", package = "qual-extra", version = "^1.0.1", optional = true }]
 features = { "extras" = ["dep:extra"] }
