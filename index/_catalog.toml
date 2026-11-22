@@ -3,7 +3,3 @@ schema = 1
 [[packages]]
 name = "qual-extra"
 version = "1.0.1"
-
-[[packages]]
-name = "qual-feature"
-version = "1.1.0"
