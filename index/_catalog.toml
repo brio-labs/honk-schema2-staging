@@ -1,2 +1,5 @@
 schema = 1
-packages = []
+
+[[packages]]
+name = "qual-extra"
+version = "1.0.1"
